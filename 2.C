@@ -3,6 +3,9 @@
 
 int main() {
  char word[] = "freedom";
+
+ printf("Слово: %s\n", word);
+
  char result[4]; 
  int start = 0; 
  int end = 4;   
