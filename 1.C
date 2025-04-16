@@ -21,5 +21,6 @@ int main() {
  else {
  printf("Буква '%c' не найдена в алфавите\n", letter);
  }
+
 return 0;
 }
